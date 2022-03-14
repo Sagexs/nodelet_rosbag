@@ -10,7 +10,7 @@
 #include <nodelet_rosbag/StartAction.h>
 #include <nodelet_rosbag/StopAction.h>
 #include <nodelet_rosbag/RecordAction.h>
-
+#include <boost/utility/in_place_factory.hpp>
 
 namespace nodelet_rosbag
 {
